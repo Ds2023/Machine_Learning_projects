@@ -7,3 +7,4 @@ Some of the highlights include:
 2. Credit default prediction (Credit score generation)
 3. Credit card fraud detection.
 4. Customer segmentation.
+5. Employees forecasting (Time series)
